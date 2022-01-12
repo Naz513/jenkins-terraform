@@ -23,7 +23,7 @@ prod = "t2.large"
 3. Jenkins Admin Password
 
 ## Management
-All resources are built and tested using [Terrafpr,](https://www.terraform.io/) and stored in [Github](https://github.com/Naz513/jenkins-terraform).
+All resources are built and tested using [Terraform,](https://www.terraform.io/) and stored in [Github](https://github.com/Naz513/jenkins-terraform).
 
 ## How to use?
 ### Pre-requisites

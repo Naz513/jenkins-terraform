@@ -1,5 +1,5 @@
 /*
-Name: Jenkinds Server
+Name: Jenkins Server
 Description: Terraform to create a Jenkins Server on AWS.
 Updated Date: 2022-01-01
 */
